@@ -1,6 +1,6 @@
 # CS-305
 
-What issue did they want you to address? Artemis Financial is a company that is invested in their clients financial future needs and security. Their software requirement were to perform a vulnerability report for their current software and list the areas of security needing work.
+Artemis Financial is a company that is invested in their clients financial future needs and security. Their software requirement were to perform a vulnerability report for their current software and list the areas of security needing work.
 I performed interpreting the clients needs well while identifying the needs of Artemis Financial. It is important to code securely because it helps prevent breaches in software and leads to a more respected company when clients are looking to secure their assets.
 What I found helpful while working through the vulnerability assessment was running through the dependency check and looking through the list of vulnerabilities.
 I used the list from the dependency check to increase layers of security as well as a manual review of the code which is useful for future projects as well.
